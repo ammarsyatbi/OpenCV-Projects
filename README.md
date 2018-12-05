@@ -27,5 +27,5 @@
 
 ### Pedestrian Detection ###
 <p float="left">
-<img src="/images/fr2.PNG" width="450" /> 
+<img src="/images/pd.PNG" width="450" /> 
 </p>
