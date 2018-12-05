@@ -10,11 +10,11 @@
 
 ### Face Detection ###
 
-<center>
+p float="left"
   <img src="/images/fd1.PNG" width="450" />
   <img src="/images/fd2.PNG" width="450" /> 
   <img src="/images/fd3.PNG" width="450" />
-</center>
+</p>
 
 
 ### Face Recognition ###
@@ -25,5 +25,6 @@
 </p>
 
 ### Pedestrian Detection ###
-
+<p float="left">
 <img src="/images/fr2.PNG" width="450" /> 
+</p>
