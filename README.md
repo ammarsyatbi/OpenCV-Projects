@@ -11,20 +11,18 @@
 ### Face Detection ###
 
 <p float="left">
-  <img src="/images/fd1.PNG" width="100" />
-  <img src="/images/fd2.PNG" width="100" /> 
-  <img src="/images/fd3.PNG" width="100" />
+  <img src="/images/fd1.PNG" width="300" />
+  <img src="/images/fd2.PNG" width="300" /> 
+  <img src="/images/fd3.PNG" width="300" />
 </p>
 
-![alt-text-1](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd1.PNG)  
-![alt-text-2](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd2.PNG)
-![alt-text-3](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd3.PNG)
 
 ### Face Recognition ###
 
-![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fr1.PNG)
-
-![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fr2.PNG)
+<p float="left">
+  <img src="/images/fr1.PNG" width="450" />
+  <img src="/images/fr2.PNG" width="450" /> 
+</p>
 
 ### Pedestrian Detection ###
 
