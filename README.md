@@ -10,10 +10,10 @@
 
 ### Face Detection ###
 
-p float="left"
-  <img src="/images/fd1.PNG" width="450" />
-  <img src="/images/fd2.PNG" width="450" /> 
-  <img src="/images/fd3.PNG" width="450" />
+<p float="left">
+  <img src="/images/fd1.PNG" width="425" />
+  <img src="/images/fd2.PNG" width="425" /> 
+  <img src="/images/fd3.PNG" width="425" />
 </p>
 
 
