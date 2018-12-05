@@ -10,7 +10,7 @@
 
 ### Face Detection ###
 
-![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd.png)
+![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd1.png) | ![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd2.png) | ![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd3.png)
 
 ### Face Recognition ###
 
