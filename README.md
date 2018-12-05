@@ -2,15 +2,17 @@
 
 ## Project Stacks ##
 
-* [Face Detection]()
-* [Face Recognition]()
-* [Pedestrian Detection]()
+* Face Detection
+* Face Recognition
+* Pedestrian Detection
 
 ## Results ## 
 
 ### Face Detection ###
 
-![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd1.PNG) | ![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd2.PNG) | ![](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd3.PNG)
+![alt-text-1](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd1.PNG)  
+![alt-text-2](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd2.PNG)
+![alt-text-3](https://github.com/ammarsyatbi/OpenCV-Projects/blob/master/images/fd3.PNG)
 
 ### Face Recognition ###
 
