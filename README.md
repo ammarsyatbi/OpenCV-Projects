@@ -5,6 +5,7 @@
 * Face Detection
 * Face Recognition
 * Pedestrian Detection
+* Object Detection
 
 ## Results ## 
 
