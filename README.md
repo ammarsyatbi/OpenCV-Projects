@@ -4,6 +4,7 @@
 
 * Face Detection
 * Face Recognition
+* Emotion Detection
 * Pedestrian Detection
 * Object Detection
 
